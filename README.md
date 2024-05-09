@@ -1,1 +1,1 @@
-# Torchtest
+This is basically a repository where I intend to store some test projects, some of which serve as backups for me, so I can come back and revisit certain knowledge. For this reason, these projects will have more detailed documentation. It's much more of a personal thing than something to impress.
